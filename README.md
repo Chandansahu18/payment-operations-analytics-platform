@@ -13,6 +13,12 @@ A **payments analytics platform** on synthetic Indian transaction data - Python 
 ![Prefect](https://img.shields.io/badge/Orchestration-Prefect_2-5547DE)
 ![CI](https://img.shields.io/badge/CI-GitHub_Actions-2088FF)
 
+## Video Walkthrough
+
+[![Payment Transaction Analytics Platform Video Walkthrough](https://img.youtube.com/vi/iU-LTy5YNn8/hqdefault.jpg)](https://youtu.be/iU-LTy5YNn8?si=igrM84GtzHlN3Sci)
+
+---
+
 ## Dashboard Preview
 
 | Executive Summary | Transaction Overview |
@@ -31,6 +37,7 @@ A **payments analytics platform** on synthetic Indian transaction data - Python 
 
 ## Table of Contents
 
+- [Video Walkthrough](#video-walkthrough)
 - [Dashboard Preview](#dashboard-preview)
 - [Business Problem](#business-problem)
 - [Dashboard](#dashboard)
